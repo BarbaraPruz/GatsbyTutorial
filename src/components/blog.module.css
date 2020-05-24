@@ -1,0 +1,9 @@
+.page{
+    background: pink;
+}
+.page h1{
+    color: blue;
+}
+.text {
+    text-transform: uppercase;
+}
